@@ -1,0 +1,72 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* index.module.css */
+.heroImageContainer {
+  position: relative;
+}
+
+.heroImage {
+  width: 100%;
+  height: auto;
+  z-index: 1; /* Ensure the hero image appears below the overlay image */
+}
+
+.overlayImage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 55%;
+  height: 100%;
+  object-fit: cover; /* Adjust this property as needed */
+  z-index: 7; 
+  padding-top: 50px;/* Place the overlay image above the hero image */
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.overlayText {
+  position: absolute;
+  top: 50%; /* Adjust this value to vertically center the text */
+  left: 73%; /* Adjust this value to horizontally center the text */
+  transform: translate(-50%, -50%); /* Center the text both vertically and horizontally */
+   /* Semi-transparent background for the overlay text */
+  color: #fff; /* Text color for the overlay text */
+   /* Adjust the padding as needed */
+/* Ensure the overlay text is above the hero image */
+  font-size: 40px;
+}
+
+.overlayTitle {
+  font-size: 39px; /* Customize the title font size */
+  /* Add any other title styling here */
+}
+
+.overlayDescription {
+  font-size: 20px; /* Customize the description font size */
+  /* Add any other description styling here */
+}

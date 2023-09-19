@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Create a Journey/Modules",
+  "id": "Create a Journey/Modules",
+  "title": "Modules",
+  "description": "What is a module?",
+  "source": "@site/docs/Create a Journey/Modules.md",
+  "sourceDirName": "Create a Journey",
+  "slug": "/Create a Journey/Modules",
+  "permalink": "/docs/Create a Journey/Modules",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Create a Journey/Modules.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Templates",
+    "permalink": "/docs/Create a Journey/Template"
+  },
+  "next": {
+    "title": "Experiences",
+    "permalink": "/docs/Create a Journey/Experience"
+  }
+}

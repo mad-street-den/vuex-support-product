@@ -1,0 +1,27 @@
+{
+  "unversionedId": "intro copy 2",
+  "id": "intro copy 2",
+  "title": "A/B testing",
+  "description": "What is A/B testing?",
+  "source": "@site/docs/intro copy 2.md",
+  "sourceDirName": ".",
+  "slug": "/intro copy 2",
+  "permalink": "/docs/intro copy 2",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro copy 2.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Journeys",
+    "permalink": "/docs/Create a Journey/Journey"
+  },
+  "next": {
+    "title": "Metrics & Dashboard",
+    "permalink": "/docs/intro copy 3"
+  }
+}

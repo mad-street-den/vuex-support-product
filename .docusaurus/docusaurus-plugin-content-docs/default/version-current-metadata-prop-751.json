@@ -1,0 +1,145 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Tutorial Intro",
+        "href": "/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "link",
+        "label": "Audience Builder",
+        "href": "/docs/Audience Builder",
+        "docId": "Audience Builder"
+      },
+      {
+        "type": "link",
+        "label": "A/B testing",
+        "href": "/docs/AB",
+        "docId": "AB"
+      },
+      {
+        "type": "category",
+        "label": "Create a Journey",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "strategy",
+            "href": "/docs/Create a Journey/strategy",
+            "docId": "Create a Journey/strategy"
+          },
+          {
+            "type": "link",
+            "label": "Templates",
+            "href": "/docs/Create a Journey/Template",
+            "docId": "Create a Journey/Template"
+          },
+          {
+            "type": "link",
+            "label": "Modules",
+            "href": "/docs/Create a Journey/Modules",
+            "docId": "Create a Journey/Modules"
+          },
+          {
+            "type": "link",
+            "label": "Experiences",
+            "href": "/docs/Create a Journey/Experience",
+            "docId": "Create a Journey/Experience"
+          },
+          {
+            "type": "link",
+            "label": "Journeys",
+            "href": "/docs/Create a Journey/Journey",
+            "docId": "Create a Journey/Journey"
+          }
+        ],
+        "href": "/docs/category/create-a-journey"
+      },
+      {
+        "type": "link",
+        "label": "Metrics & Dashboard",
+        "href": "/docs/Metrics",
+        "docId": "Metrics"
+      },
+      {
+        "type": "link",
+        "label": "Email personalization",
+        "href": "/docs/Email",
+        "docId": "Email"
+      }
+    ]
+  },
+  "docs": {
+    "AB": {
+      "id": "AB",
+      "title": "A/B testing",
+      "description": "What is A/B testing?",
+      "sidebar": "tutorialSidebar"
+    },
+    "Audience Builder": {
+      "id": "Audience Builder",
+      "title": "Audience Builder",
+      "description": "Audiences refer to the different categories of visitors (shoppers) that enter your online store. In this section, we will look at audience presets, custom audiences, and audience data available to you.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Create a Journey/Experience": {
+      "id": "Create a Journey/Experience",
+      "title": "Experiences",
+      "description": "What is an experience?",
+      "sidebar": "tutorialSidebar"
+    },
+    "Create a Journey/Journey": {
+      "id": "Create a Journey/Journey",
+      "title": "Journeys",
+      "description": "What is a journey?",
+      "sidebar": "tutorialSidebar"
+    },
+    "Create a Journey/Modules": {
+      "id": "Create a Journey/Modules",
+      "title": "Modules",
+      "description": "What is a module?",
+      "sidebar": "tutorialSidebar"
+    },
+    "Create a Journey/strategy": {
+      "id": "Create a Journey/strategy",
+      "title": "strategy",
+      "description": "Relevant product recommendations require precise strategies that yield right results. You can choose a model from our collection and define your approach to product recommendations.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Create a Journey/Template": {
+      "id": "Create a Journey/Template",
+      "title": "Templates",
+      "description": "What is a template?",
+      "sidebar": "tutorialSidebar"
+    },
+    "Email": {
+      "id": "Email",
+      "title": "Email personalization",
+      "description": "What is email personalization?",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Tutorial Intro",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Metrics": {
+      "id": "Metrics",
+      "title": "Metrics & Dashboard",
+      "description": "The dashboard and metrics show you an exhaustive range of KPIs from business impact to the performance of specific modules on a given page.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

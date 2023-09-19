@@ -1,0 +1,27 @@
+{
+  "unversionedId": "intro copy",
+  "id": "intro copy",
+  "title": "Audience Builder",
+  "description": "Audiences refer to the different categories of visitors (shoppers) that enter your online store. In this section, we will look at audience presets, custom audiences, and audience data available to you.",
+  "source": "@site/docs/intro copy.md",
+  "sourceDirName": ".",
+  "slug": "/intro copy",
+  "permalink": "/docs/intro copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Create a Journey",
+    "permalink": "/docs/category/create-a-journey"
+  }
+}

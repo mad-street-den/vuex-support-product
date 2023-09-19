@@ -1,0 +1,23 @@
+{
+  "unversionedId": "intro copy 3",
+  "id": "intro copy 3",
+  "title": "Metrics & Dashboard",
+  "description": "The dashboard and metrics show you an exhaustive range of KPIs from business impact to the performance of specific modules on a given page.",
+  "source": "@site/docs/intro copy 3.md",
+  "sourceDirName": ".",
+  "slug": "/intro copy 3",
+  "permalink": "/docs/intro copy 3",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro copy 3.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Journeys",
+    "permalink": "/docs/Create a Journey/Journey"
+  }
+}

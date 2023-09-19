@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Create a Journey/Journey",
+  "id": "Create a Journey/Journey",
+  "title": "Journeys",
+  "description": "What is a journey?",
+  "source": "@site/docs/Create a Journey/Journey.md",
+  "sourceDirName": "Create a Journey",
+  "slug": "/Create a Journey/Journey",
+  "permalink": "/docs/Create a Journey/Journey",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Create a Journey/Journey.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Experiences",
+    "permalink": "/docs/Create a Journey/Experience"
+  },
+  "next": {
+    "title": "Metrics & Dashboard",
+    "permalink": "/docs/Metrics"
+  }
+}

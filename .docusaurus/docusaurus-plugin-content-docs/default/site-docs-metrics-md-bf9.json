@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Metrics",
+  "id": "Metrics",
+  "title": "Metrics & Dashboard",
+  "description": "The dashboard and metrics show you an exhaustive range of KPIs from business impact to the performance of specific modules on a given page.",
+  "source": "@site/docs/Metrics.md",
+  "sourceDirName": ".",
+  "slug": "/Metrics",
+  "permalink": "/docs/Metrics",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Metrics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Journeys",
+    "permalink": "/docs/Create a Journey/Journey"
+  },
+  "next": {
+    "title": "Email personalization",
+    "permalink": "/docs/Email"
+  }
+}

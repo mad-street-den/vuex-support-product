@@ -1,0 +1,16 @@
+{
+  "title": "Create a Journey",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/create-a-journey",
+  "permalink": "/docs/category/create-a-journey",
+  "navigation": {
+    "previous": {
+      "title": "A/B testing",
+      "permalink": "/docs/AB"
+    },
+    "next": {
+      "title": "strategy",
+      "permalink": "/docs/Create a Journey/strategy"
+    }
+  }
+}

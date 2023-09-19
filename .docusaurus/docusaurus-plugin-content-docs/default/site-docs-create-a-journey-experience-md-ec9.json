@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Create a Journey/Experience",
+  "id": "Create a Journey/Experience",
+  "title": "Experiences",
+  "description": "What is an experience?",
+  "source": "@site/docs/Create a Journey/Experience.md",
+  "sourceDirName": "Create a Journey",
+  "slug": "/Create a Journey/Experience",
+  "permalink": "/docs/Create a Journey/Experience",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Create a Journey/Experience.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Modules",
+    "permalink": "/docs/Create a Journey/Modules"
+  },
+  "next": {
+    "title": "Journeys",
+    "permalink": "/docs/Create a Journey/Journey"
+  }
+}

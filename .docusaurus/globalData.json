@@ -1,0 +1,83 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "AB",
+              "path": "/docs/AB",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Audience Builder",
+              "path": "/docs/Audience Builder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Create a Journey/Experience",
+              "path": "/docs/Create a Journey/Experience",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Create a Journey/Journey",
+              "path": "/docs/Create a Journey/Journey",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Create a Journey/Modules",
+              "path": "/docs/Create a Journey/Modules",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Create a Journey/strategy",
+              "path": "/docs/Create a Journey/strategy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Create a Journey/Template",
+              "path": "/docs/Create a Journey/Template",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Email",
+              "path": "/docs/Email",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Metrics",
+              "path": "/docs/Metrics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/create-a-journey",
+              "path": "/docs/category/create-a-journey",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

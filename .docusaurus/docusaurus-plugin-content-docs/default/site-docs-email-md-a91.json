@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Email",
+  "id": "Email",
+  "title": "Email personalization",
+  "description": "What is email personalization?",
+  "source": "@site/docs/Email.md",
+  "sourceDirName": ".",
+  "slug": "/Email",
+  "permalink": "/docs/Email",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Email.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Metrics & Dashboard",
+    "permalink": "/docs/Metrics"
+  }
+}
