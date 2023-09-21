@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: (
-      <a href="/user-guides">
+      <a href="https://www.support.vuex.ai/case-studies">
         Case Studies
       </a>
     ),
@@ -14,13 +14,12 @@ const FeatureList = [
       <>
         
 
-Whether you’re using VueX for the first time or are an advanced user, the guide helps you get the most out of the product.
-      </>
+        Read about how our customers are using VueX to transform their businesses, driving growth through AI-enabled personalization.      </>
     ),
   },
   {
     title: (
-      <a href="/user-guides">
+      <a href="https://vue.ai/resources/podcasts/">
         Inspiration Center
       </a>
     ),

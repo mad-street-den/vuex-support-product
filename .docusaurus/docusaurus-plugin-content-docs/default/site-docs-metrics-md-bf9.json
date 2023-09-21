@@ -8,7 +8,6 @@
   "slug": "/Metrics",
   "permalink": "/docs/Metrics",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Metrics.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 5,
@@ -17,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Journeys",
-    "permalink": "/docs/Create a Journey/Journey"
+    "title": "Integration",
+    "permalink": "/docs/Create a Journey/Integration"
   },
   "next": {
     "title": "Email personalization",

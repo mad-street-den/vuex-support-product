@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: (
-      <a href="/user-guides">
+      <a href="docs/Audience Builder">
         User Guides
       </a>
     ),
@@ -18,7 +18,7 @@ const FeatureList = [
   },
   {
     title: (
-      <a href="/user-guides">
+      <a href="https://vue.ai/developer/docs/api-reference/recommendations">
         API Documentation
       </a>
     ),
@@ -31,7 +31,7 @@ const FeatureList = [
   },
   {
     title: (
-      <a href="/user-guides">
+      <a href="https://vue.ai/products/retail-personalization-platform/">
         About Vuex
       </a>
     ),

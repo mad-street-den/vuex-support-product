@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "  Vuex Support",
+  "tagline": "",
   "favicon": "img/Favicon.png",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
@@ -26,12 +26,10 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/silasasharjesudasanj/Documents/vuex-support-product/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "sidebarPath": "/Users/silasasharjesudasanj/Documents/vuex-support-product/sidebars.js"
         },
         "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "showReadingTime": true
         },
         "theme": {
           "customCss": "/Users/silasasharjesudasanj/Documents/vuex-support-product/src/css/custom.css"
@@ -53,6 +51,19 @@ export default {
           "sidebarId": "tutorialSidebar",
           "position": "left",
           "label": "User Guides"
+        },
+        {
+          "type": "docSidebar",
+          "href": "docs/Create a Journey/Integration",
+          "sidebarId": "tutorialSidebar",
+          "position": "left",
+          "label": "Integration"
+        },
+        {
+          "type": "docSidebar",
+          "sidebarId": "tutorialSidebar",
+          "position": "left",
+          "label": "Raise a ticket"
         }
       ],
       "hideOnScroll": false

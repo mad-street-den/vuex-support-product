@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Create a Journey/Integration",
+  "id": "Create a Journey/Integration",
+  "title": "Integration",
+  "description": "Integration",
+  "source": "@site/docs/Create a Journey/Integration.md",
+  "sourceDirName": "Create a Journey",
+  "slug": "/Create a Journey/Integration",
+  "permalink": "/docs/Create a Journey/Integration",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Journeys",
+    "permalink": "/docs/Create a Journey/Journey"
+  },
+  "next": {
+    "title": "Metrics & Dashboard",
+    "permalink": "/docs/Metrics"
+  }
+}

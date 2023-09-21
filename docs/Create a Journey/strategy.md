@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 
-# strategy
+# Strategy
 
 Relevant product recommendations require precise strategies that yield right results. You can choose a model from our collection and define your approach to product recommendations. 
 

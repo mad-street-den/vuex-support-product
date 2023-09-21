@@ -11,12 +11,6 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Tutorial Intro",
-        "href": "/docs/intro",
-        "docId": "intro"
-      },
-      {
-        "type": "link",
         "label": "Audience Builder",
         "href": "/docs/Audience Builder",
         "docId": "Audience Builder"
@@ -35,7 +29,7 @@
         "items": [
           {
             "type": "link",
-            "label": "strategy",
+            "label": "Strategy",
             "href": "/docs/Create a Journey/strategy",
             "docId": "Create a Journey/strategy"
           },
@@ -62,6 +56,12 @@
             "label": "Journeys",
             "href": "/docs/Create a Journey/Journey",
             "docId": "Create a Journey/Journey"
+          },
+          {
+            "type": "link",
+            "label": "Integration",
+            "href": "/docs/Create a Journey/Integration",
+            "docId": "Create a Journey/Integration"
           }
         ],
         "href": "/docs/category/create-a-journey"
@@ -99,6 +99,12 @@
       "description": "What is an experience?",
       "sidebar": "tutorialSidebar"
     },
+    "Create a Journey/Integration": {
+      "id": "Create a Journey/Integration",
+      "title": "Integration",
+      "description": "Integration",
+      "sidebar": "tutorialSidebar"
+    },
     "Create a Journey/Journey": {
       "id": "Create a Journey/Journey",
       "title": "Journeys",
@@ -113,7 +119,7 @@
     },
     "Create a Journey/strategy": {
       "id": "Create a Journey/strategy",
-      "title": "strategy",
+      "title": "Strategy",
       "description": "Relevant product recommendations require precise strategies that yield right results. You can choose a model from our collection and define your approach to product recommendations.",
       "sidebar": "tutorialSidebar"
     },
@@ -127,12 +133,6 @@
       "id": "Email",
       "title": "Email personalization",
       "description": "What is email personalization?",
-      "sidebar": "tutorialSidebar"
-    },
-    "intro": {
-      "id": "intro",
-      "title": "Tutorial Intro",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
       "sidebar": "tutorialSidebar"
     },
     "Metrics": {

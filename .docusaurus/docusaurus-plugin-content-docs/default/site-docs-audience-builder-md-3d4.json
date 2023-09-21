@@ -8,7 +8,6 @@
   "slug": "/Audience Builder",
   "permalink": "/docs/Audience Builder",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Audience Builder.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -16,10 +15,6 @@
     "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "Tutorial Intro",
-    "permalink": "/docs/intro"
-  },
   "next": {
     "title": "A/B testing",
     "permalink": "/docs/AB"

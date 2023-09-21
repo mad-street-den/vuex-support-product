@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: '  Vuex Support',
+  tagline: '',
   favicon: 'img/Favicon.png',
 
   // Set the production url of your site here
@@ -41,15 +41,13 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+         
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -75,6 +73,19 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'User Guides',
+          },
+          {
+            type: 'docSidebar',
+            href: 'docs/Create a Journey/Integration',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Integration',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Raise a ticket',
           },
         
         ],

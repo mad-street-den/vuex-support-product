@@ -11,8 +11,6 @@
           "className": "docs-version-current",
           "path": "/docs",
           "tagsPath": "/docs/tags",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
-          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/Users/silasasharjesudasanj/Documents/vuex-support-product/sidebars.js",
@@ -29,7 +27,6 @@
               "slug": "/AB",
               "permalink": "/docs/AB",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/AB.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -56,7 +53,6 @@
               "slug": "/Audience Builder",
               "permalink": "/docs/Audience Builder",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Audience Builder.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -64,10 +60,6 @@
                 "sidebar_position": 2
               },
               "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Tutorial Intro",
-                "permalink": "/docs/intro"
-              },
               "next": {
                 "title": "A/B testing",
                 "permalink": "/docs/AB"
@@ -83,7 +75,6 @@
               "slug": "/Create a Journey/Experience",
               "permalink": "/docs/Create a Journey/Experience",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Create a Journey/Experience.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -101,6 +92,29 @@
               }
             },
             {
+              "unversionedId": "Create a Journey/Integration",
+              "id": "Create a Journey/Integration",
+              "title": "Integration",
+              "description": "Integration",
+              "source": "@site/docs/Create a Journey/Integration.md",
+              "sourceDirName": "Create a Journey",
+              "slug": "/Create a Journey/Integration",
+              "permalink": "/docs/Create a Journey/Integration",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Journeys",
+                "permalink": "/docs/Create a Journey/Journey"
+              },
+              "next": {
+                "title": "Metrics & Dashboard",
+                "permalink": "/docs/Metrics"
+              }
+            },
+            {
               "unversionedId": "Create a Journey/Journey",
               "id": "Create a Journey/Journey",
               "title": "Journeys",
@@ -110,7 +124,6 @@
               "slug": "/Create a Journey/Journey",
               "permalink": "/docs/Create a Journey/Journey",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Create a Journey/Journey.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -123,8 +136,8 @@
                 "permalink": "/docs/Create a Journey/Experience"
               },
               "next": {
-                "title": "Metrics & Dashboard",
-                "permalink": "/docs/Metrics"
+                "title": "Integration",
+                "permalink": "/docs/Create a Journey/Integration"
               }
             },
             {
@@ -137,7 +150,6 @@
               "slug": "/Create a Journey/Modules",
               "permalink": "/docs/Create a Journey/Modules",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Create a Journey/Modules.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -157,14 +169,13 @@
             {
               "unversionedId": "Create a Journey/strategy",
               "id": "Create a Journey/strategy",
-              "title": "strategy",
+              "title": "Strategy",
               "description": "Relevant product recommendations require precise strategies that yield right results. You can choose a model from our collection and define your approach to product recommendations.",
               "source": "@site/docs/Create a Journey/strategy.md",
               "sourceDirName": "Create a Journey",
               "slug": "/Create a Journey/strategy",
               "permalink": "/docs/Create a Journey/strategy",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Create a Journey/strategy.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -191,7 +202,6 @@
               "slug": "/Create a Journey/Template",
               "permalink": "/docs/Create a Journey/Template",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Create a Journey/Template.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -200,7 +210,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "strategy",
+                "title": "Strategy",
                 "permalink": "/docs/Create a Journey/strategy"
               },
               "next": {
@@ -218,7 +228,6 @@
               "slug": "/Email",
               "permalink": "/docs/Email",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Email.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -232,29 +241,6 @@
               }
             },
             {
-              "unversionedId": "intro",
-              "id": "intro",
-              "title": "Tutorial Intro",
-              "description": "Let's discover Docusaurus in less than 5 minutes.",
-              "source": "@site/docs/intro.md",
-              "sourceDirName": ".",
-              "slug": "/intro",
-              "permalink": "/docs/intro",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "next": {
-                "title": "Audience Builder",
-                "permalink": "/docs/Audience Builder"
-              }
-            },
-            {
               "unversionedId": "Metrics",
               "id": "Metrics",
               "title": "Metrics & Dashboard",
@@ -264,7 +250,6 @@
               "slug": "/Metrics",
               "permalink": "/docs/Metrics",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Metrics.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -273,8 +258,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Journeys",
-                "permalink": "/docs/Create a Journey/Journey"
+                "title": "Integration",
+                "permalink": "/docs/Create a Journey/Integration"
               },
               "next": {
                 "title": "Email personalization",
@@ -285,10 +270,6 @@
           "drafts": [],
           "sidebars": {
             "tutorialSidebar": [
-              {
-                "type": "doc",
-                "id": "intro"
-              },
               {
                 "type": "doc",
                 "id": "Audience Builder"
@@ -322,11 +303,14 @@
                   {
                     "type": "doc",
                     "id": "Create a Journey/Journey"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Create a Journey/Integration"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "5 minutes to learn the most important Docusaurus concepts.",
                   "slug": "/category/create-a-journey",
                   "permalink": "/docs/category/create-a-journey"
                 }
@@ -353,7 +337,6 @@
           "id": "welcome",
           "metadata": {
             "permalink": "/blog/welcome",
-            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
             "description": "Docusaurus blogging features are powered by the blog plugin.",
@@ -415,7 +398,6 @@
           "id": "mdx-blog-post",
           "metadata": {
             "permalink": "/blog/mdx-blog-post",
-            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
             "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
@@ -463,7 +445,6 @@
           "id": "long-blog-post",
           "metadata": {
             "permalink": "/blog/long-blog-post",
-            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
             "description": "This is the summary of a very long blog post,",
@@ -514,7 +495,6 @@
           "id": "first-blog-post",
           "metadata": {
             "permalink": "/blog/first-blog-post",
-            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",

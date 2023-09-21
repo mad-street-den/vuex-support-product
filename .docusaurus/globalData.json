@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "intro",
+          "mainDocId": "Audience Builder",
           "docs": [
             {
               "id": "AB",
@@ -23,6 +23,11 @@
             {
               "id": "Create a Journey/Experience",
               "path": "/docs/Create a Journey/Experience",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Create a Journey/Integration",
+              "path": "/docs/Create a Journey/Integration",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -51,11 +56,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "intro",
-              "path": "/docs/intro",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Metrics",
               "path": "/docs/Metrics",
               "sidebar": "tutorialSidebar"
@@ -70,8 +70,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
-                "label": "intro"
+                "path": "/docs/Audience Builder",
+                "label": "Audience Builder"
               }
             }
           }

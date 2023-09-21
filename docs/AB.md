@@ -8,6 +8,8 @@ sidebar_position: 4
 
 A/B testing is an experiment of comparing two or more versions of a customer journey against each other to understand which version performs better against a specific goal. You can conduct an A/B test by splitting the traffic between different versions of customer journeys and use statistical analysis to determine which version performs better for a given conversion goal.
 
+![Example Image](https://d1r1e7xjkfj7nz.cloudfront.net/ab1.png)
+
 ### Why do you need to run an A/B test?
 
 You can:
@@ -95,6 +97,8 @@ If you choose to temporarily pause a live A/B test, in order to run a campaign o
 2. Click the pause icon to pause an experiment.
 
 **Note:** While an experiment is in a paused state, the associated audience cannot be assigned to another experiment.
+
+![Example Image](https://d1r1e7xjkfj7nz.cloudfront.net/ab2.png)
 
 ### Resume Experiment
 

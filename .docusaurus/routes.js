@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c66'),
+    component: ComponentCreator('/docs', '523'),
     routes: [
       {
         path: '/docs/AB',
@@ -122,6 +122,12 @@ export default [
       {
         path: '/docs/Create a Journey/Experience',
         component: ComponentCreator('/docs/Create a Journey/Experience', '0b5'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Create a Journey/Integration',
+        component: ComponentCreator('/docs/Create a Journey/Integration', '97d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -152,12 +158,6 @@ export default [
       {
         path: '/docs/Email',
         component: ComponentCreator('/docs/Email', '7e0'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro', 'aed'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

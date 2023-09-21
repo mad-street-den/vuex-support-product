@@ -64,9 +64,11 @@
 .overlayTitle {
   font-size: 39px; /* Customize the title font size */
   /* Add any other title styling here */
+  
 }
 
 .overlayDescription {
   font-size: 20px; /* Customize the description font size */
   /* Add any other description styling here */
+  color: #17153d;
 }

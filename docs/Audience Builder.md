@@ -12,6 +12,8 @@ Anonymous and first-time shoppers are allocated to the most relevant segments, i
 
 An individual shopper might belong to multiple audiences (e.g., discount shopper + owner of abandoned cart).
 
+![Example Image](https://d1r1e7xjkfj7nz.cloudfront.net/Audience1.png)
+
 ## Audience Presets
 
 A preset list of audiences has been configured based on specific behavioral criteria of the customers. So, every time there is a new visitor to the site, they are automatically assigned to one of these defined presets based on their behavioral characteristics. Audiences are recomputed once a day.
@@ -35,9 +37,12 @@ A preset list of audiences has been configured based on specific behavioral crit
 ## Upload Custom Audiences
 
 1. Click 'Upload Audiences'.
+![Example Image](https://d1r1e7xjkfj7nz.cloudfront.net/Audience2.png)
 2. Download the .csv template.
+![Example Image](https://d1r1e7xjkfj7nz.cloudfront.net/Audience3.png)
 3. Populate the template with the required data.
 4. Drag and drop the .csv file in the allocated space or browse and upload.
+![Example Image](https://d1r1e7xjkfj7nz.cloudfront.net/Audience4.png)
 5. Name the audience segment.
 6. Click on 'Upload'.
 7. You can view the uploaded audience and associated data from the audience builder dashboard.
@@ -76,6 +81,8 @@ After opening the Audience Builder, you will land on a page with a table of all 
 A shopper can be a part of multiple audiences (e.g., a shopper can belong to the discount shopper audience segment, as well as the owner of abandoned cart segment). To understand the overlap between segments, click on the icon.
 
 The below screen will open.
+
+![Example Image](https://d1r1e7xjkfj7nz.cloudfront.net/Audience6.png)
 
 - Selected audience: The main segment whose information you are looking at.
 - Overlap information: The degree of overlap of the main segment with other segments.
