@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '  Vuex Support',
   tagline: '',
-  favicon: 'img/Favicon.png',
+  favicon: 'img/image.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-test-site.com',
@@ -65,7 +65,7 @@ const config = {
         title: '',
         logo: {
           alt: '',
-          src: 'img/vue-logo-light.svg',
+          src: 'img/image.png',
         },
         items: [
           {
@@ -81,12 +81,7 @@ const config = {
             position: 'left',
             label: 'Integration',
           },
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Raise a ticket',
-          },
+         
         
         ],
       },

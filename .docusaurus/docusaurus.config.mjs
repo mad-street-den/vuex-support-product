@@ -6,7 +6,7 @@
 export default {
   "title": "  Vuex Support",
   "tagline": "",
-  "favicon": "img/Favicon.png",
+  "favicon": "img/image.png",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
   "organizationName": "facebook",
@@ -43,7 +43,7 @@ export default {
       "title": "",
       "logo": {
         "alt": "",
-        "src": "img/vue-logo-light.svg"
+        "src": "img/image.png"
       },
       "items": [
         {
@@ -58,12 +58,6 @@ export default {
           "sidebarId": "tutorialSidebar",
           "position": "left",
           "label": "Integration"
-        },
-        {
-          "type": "docSidebar",
-          "sidebarId": "tutorialSidebar",
-          "position": "left",
-          "label": "Raise a ticket"
         }
       ],
       "hideOnScroll": false
@@ -127,7 +121,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
+      "copyright": " A Product Of Mad Street Den"
     },
     "prism": {
       "theme": {
