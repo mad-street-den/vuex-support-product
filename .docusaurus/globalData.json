@@ -26,11 +26,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Create a Journey/Integration",
-              "path": "/docs/Create a Journey/Integration",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Create a Journey/Journey",
               "path": "/docs/Create a Journey/Journey",
               "sidebar": "tutorialSidebar"
@@ -56,8 +51,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Integration",
+              "path": "/docs/Integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Metrics",
               "path": "/docs/Metrics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Models",
+              "path": "/docs/Models",
               "sidebar": "tutorialSidebar"
             },
             {

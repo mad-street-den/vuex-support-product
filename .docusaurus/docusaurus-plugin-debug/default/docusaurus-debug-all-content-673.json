@@ -92,29 +92,6 @@
               }
             },
             {
-              "unversionedId": "Create a Journey/Integration",
-              "id": "Create a Journey/Integration",
-              "title": "Integration",
-              "description": "Integration",
-              "source": "@site/docs/Create a Journey/Integration.md",
-              "sourceDirName": "Create a Journey",
-              "slug": "/Create a Journey/Integration",
-              "permalink": "/docs/Create a Journey/Integration",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Journeys",
-                "permalink": "/docs/Create a Journey/Journey"
-              },
-              "next": {
-                "title": "Metrics & Dashboard",
-                "permalink": "/docs/Metrics"
-              }
-            },
-            {
               "unversionedId": "Create a Journey/Journey",
               "id": "Create a Journey/Journey",
               "title": "Journeys",
@@ -136,8 +113,8 @@
                 "permalink": "/docs/Create a Journey/Experience"
               },
               "next": {
-                "title": "Integration",
-                "permalink": "/docs/Create a Journey/Integration"
+                "title": "Metrics & Dashboard",
+                "permalink": "/docs/Metrics"
               }
             },
             {
@@ -238,6 +215,33 @@
               "previous": {
                 "title": "Metrics & Dashboard",
                 "permalink": "/docs/Metrics"
+              },
+              "next": {
+                "title": "Integration",
+                "permalink": "/docs/Integration"
+              }
+            },
+            {
+              "unversionedId": "Integration",
+              "id": "Integration",
+              "title": "Integration",
+              "description": "Integration",
+              "source": "@site/docs/Integration.md",
+              "sourceDirName": ".",
+              "slug": "/Integration",
+              "permalink": "/docs/Integration",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Email personalization",
+                "permalink": "/docs/Email"
+              },
+              "next": {
+                "title": "Models",
+                "permalink": "/docs/Models"
               }
             },
             {
@@ -258,12 +262,31 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Integration",
-                "permalink": "/docs/Create a Journey/Integration"
+                "title": "Journeys",
+                "permalink": "/docs/Create a Journey/Journey"
               },
               "next": {
                 "title": "Email personalization",
                 "permalink": "/docs/Email"
+              }
+            },
+            {
+              "unversionedId": "Models",
+              "id": "Models",
+              "title": "Models",
+              "description": "Model",
+              "source": "@site/docs/Models.md",
+              "sourceDirName": ".",
+              "slug": "/Models",
+              "permalink": "/docs/Models",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Integration",
+                "permalink": "/docs/Integration"
               }
             }
           ],
@@ -303,10 +326,6 @@
                   {
                     "type": "doc",
                     "id": "Create a Journey/Journey"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Create a Journey/Integration"
                   }
                 ],
                 "link": {
@@ -322,6 +341,14 @@
               {
                 "type": "doc",
                 "id": "Email"
+              },
+              {
+                "type": "doc",
+                "id": "Integration"
+              },
+              {
+                "type": "doc",
+                "id": "Models"
               }
             ]
           }

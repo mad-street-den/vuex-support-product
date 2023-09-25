@@ -1,0 +1,19 @@
+{
+  "unversionedId": "Module",
+  "id": "Module",
+  "title": "Module",
+  "description": "Model",
+  "source": "@site/docs/Module.md",
+  "sourceDirName": ".",
+  "slug": "/Module",
+  "permalink": "/docs/Module",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Integration",
+    "permalink": "/docs/Integration"
+  }
+}

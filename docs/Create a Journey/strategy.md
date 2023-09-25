@@ -18,15 +18,17 @@ Strategies also support configuring business rules on top of the models to alter
 
 
 
-|**Model**|**Description**|**Related Article**|
-| :-: | :-: | :-: |
-|Similar Products|Recommends products with similar attributes. Matches similarity vectors and picks products from the catalog with attributes similar to the product currently in view|[Similar Products](http://support.vue.ai/support/solutions/articles/81000384747-similar-products-model)|
-|Trending Products|Recommends the most popular products on the website based on pre-defined customer triggers |[Trending Products](http://support.vue.ai/support/solutions/articles/81000384754-trending-model)|
-|Inspired by Browsing History|Recommends products based on specific customer's search history|[Inspired by Browsing History](http://support.vue.ai/support/solutions/articles/81000384749-inspired-by-browsing-history-model)|
-|Recently Engaged|Recommends products that were last engaged with by the customer, with the most recently engaged product appearing first. |[Recently Engaged](http://support.vue.ai/support/solutions/articles/81000384756-recently-engaged-model)|
-|Collaborative Filtering|Establishes patterns between customers (creating a group), and recommends products within the group|[Collaborative Filtering](http://support.vue.ai/support/solutions/articles/81000384755-collaborative-filtering-model)|
-|Recommended for You|Recommends products considering a combination of customer's behavioral preferences and product currently in view|[Recommended for You](http://support.vue.ai/support/solutions/articles/81000387920-recommended-for-you)|
-|Bundling|There are two types of bundling models you can configure on VueX,- Cross Product Bundling - Displays cross-product recommendations, based on the product in view- Product Curations Bundling - Displays a collection of product outfits for a particular theme|[Bundling Models](http://support.vue.ai/support/solutions/articles/81000387922-bundling-model)|
+| **Model** | **Description** |
+| :-: | :-: |
+| Similar Products | Recommends products with similar attributes. Matches similarity vectors and picks products from the catalog with attributes similar to the product currently in view |
+| Trending Products | Recommends the most popular products on the website based on pre-defined customer triggers |
+| Inspired by Browsing History | Recommends products based on specific customer's search history |
+| Recently Engaged | Recommends products that were last engaged with by the customer, with the most recently engaged product appearing first. |
+| Collaborative Filtering | Establishes patterns between customers (creating a group), and recommends products within the group |
+| Recommended for You | Recommends products considering a combination of customer's behavioral preferences and product currently in view |
+| Bundling | There are two types of bundling models you can configure on VueX,- Cross Product Bundling - Displays cross-product recommendations, based on the product in view- Product Curations Bundling - Displays a collection of product outfits for a particular theme |
+
+To know more about models [Click here](docs/Models.md)
 
 **Create a Strategy**
 
@@ -35,7 +37,7 @@ Strategies also support configuring business rules on top of the models to alter
 1. Choose a model for your strategy. For example, you can choose **Contextual** and select a model. The **Manage Strategy** page is displayed.
 1. Clickto configure model parameters. You can check the articles mentioned against the relevant model,  under 'VueX Models', to know how to customize the model parameter parameters.
 1. Once you are done configuring the parameters, click **Next**.
-1. Indicate whether you want to apply 1**:1 affinity-based personalization** on the model. You can also apply [business rules ](https://support.vue.ai/en/support/solutions/articles/81000382384)while creating a strategy.
+1. Indicate whether you want to apply 1**:1 affinity-based personalization** on the model. You can also apply business rules while creating a strategy.
 
 
 

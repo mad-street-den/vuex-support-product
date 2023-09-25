@@ -66,7 +66,9 @@ const config = {
         logo: {
           alt: '',
           src: 'img/image.png',
+          
         },
+       
         items: [
           {
             type: 'docSidebar',
@@ -75,11 +77,8 @@ const config = {
             label: 'User Guides',
           },
           {
-            type: 'docSidebar',
-            href: 'docs/Create a Journey/Integration',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
             label: 'Integration',
+                to: 'docs/Integration',
           },
          
         

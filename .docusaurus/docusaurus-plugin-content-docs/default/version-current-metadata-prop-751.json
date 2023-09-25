@@ -56,12 +56,6 @@
             "label": "Journeys",
             "href": "/docs/Create a Journey/Journey",
             "docId": "Create a Journey/Journey"
-          },
-          {
-            "type": "link",
-            "label": "Integration",
-            "href": "/docs/Create a Journey/Integration",
-            "docId": "Create a Journey/Integration"
           }
         ],
         "href": "/docs/category/create-a-journey"
@@ -77,6 +71,18 @@
         "label": "Email personalization",
         "href": "/docs/Email",
         "docId": "Email"
+      },
+      {
+        "type": "link",
+        "label": "Integration",
+        "href": "/docs/Integration",
+        "docId": "Integration"
+      },
+      {
+        "type": "link",
+        "label": "Models",
+        "href": "/docs/Models",
+        "docId": "Models"
       }
     ]
   },
@@ -97,12 +103,6 @@
       "id": "Create a Journey/Experience",
       "title": "Experiences",
       "description": "What is an experience?",
-      "sidebar": "tutorialSidebar"
-    },
-    "Create a Journey/Integration": {
-      "id": "Create a Journey/Integration",
-      "title": "Integration",
-      "description": "Integration",
       "sidebar": "tutorialSidebar"
     },
     "Create a Journey/Journey": {
@@ -135,10 +135,22 @@
       "description": "What is email personalization?",
       "sidebar": "tutorialSidebar"
     },
+    "Integration": {
+      "id": "Integration",
+      "title": "Integration",
+      "description": "Integration",
+      "sidebar": "tutorialSidebar"
+    },
     "Metrics": {
       "id": "Metrics",
       "title": "Metrics & Dashboard",
       "description": "The dashboard and metrics show you an exhaustive range of KPIs from business impact to the performance of specific modules on a given page.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Models": {
+      "id": "Models",
+      "title": "Models",
+      "description": "Model",
       "sidebar": "tutorialSidebar"
     }
   }

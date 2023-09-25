@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Create a Journey/models",
+  "id": "Create a Journey/models",
+  "title": "models",
+  "description": "Model",
+  "source": "@site/docs/Create a Journey/models.md",
+  "sourceDirName": "Create a Journey",
+  "slug": "/Create a Journey/models",
+  "permalink": "/docs/Create a Journey/models",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Journeys",
+    "permalink": "/docs/Create a Journey/Journey"
+  },
+  "next": {
+    "title": "Metrics & Dashboard",
+    "permalink": "/docs/Metrics"
+  }
+}

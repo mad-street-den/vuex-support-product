@@ -1,0 +1,19 @@
+{
+  "unversionedId": "Models",
+  "id": "Models",
+  "title": "Models",
+  "description": "Model",
+  "source": "@site/docs/Models.md",
+  "sourceDirName": ".",
+  "slug": "/Models",
+  "permalink": "/docs/Models",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Integration",
+    "permalink": "/docs/Integration"
+  }
+}

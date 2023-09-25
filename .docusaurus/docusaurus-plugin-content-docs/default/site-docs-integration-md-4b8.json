@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Integration",
+  "id": "Integration",
+  "title": "Integration",
+  "description": "Integration",
+  "source": "@site/docs/Integration.md",
+  "sourceDirName": ".",
+  "slug": "/Integration",
+  "permalink": "/docs/Integration",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Email personalization",
+    "permalink": "/docs/Email"
+  },
+  "next": {
+    "title": "Models",
+    "permalink": "/docs/Models"
+  }
+}

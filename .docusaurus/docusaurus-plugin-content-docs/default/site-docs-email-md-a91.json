@@ -18,5 +18,9 @@
   "previous": {
     "title": "Metrics & Dashboard",
     "permalink": "/docs/Metrics"
+  },
+  "next": {
+    "title": "Integration",
+    "permalink": "/docs/Integration"
   }
 }

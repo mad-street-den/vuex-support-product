@@ -53,11 +53,9 @@ export default {
           "label": "User Guides"
         },
         {
-          "type": "docSidebar",
-          "href": "docs/Create a Journey/Integration",
-          "sidebarId": "tutorialSidebar",
-          "position": "left",
-          "label": "Integration"
+          "label": "Integration",
+          "to": "docs/Integration",
+          "position": "left"
         }
       ],
       "hideOnScroll": false
@@ -121,7 +119,7 @@ export default {
           ]
         }
       ],
-      "copyright": " A Product Of Mad Street Den"
+      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {
